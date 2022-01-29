@@ -8,6 +8,17 @@ body {
     margin: 0 auto;
 }
 
+.border-add {
+    font-family: 'Yeseva One', cursive;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.top-footer {
+    border-left: 5px solid #FF5959;
+    border-radius: 2px;
+}
+
 h1 {
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
