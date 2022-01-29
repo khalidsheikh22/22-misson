@@ -83,3 +83,17 @@ h2 {
     width: 300px;
     border-radius: 25px;
 }
+
+.third img {
+    width: 70%;
+    margin-left: 130px;
+    margin-right: 40px;
+}
+
+.foure {
+    margin-right: 370px;
+}
+
+.third-part {
+    margin-top: 80px;
+}
