@@ -125,3 +125,27 @@ h2 {
     margin-right: 330px;
     margin-top: 140px;
 }
+
+.last-adding {
+    font-size: 36px;
+    line-height: 44px;
+    font-family: 'Lobster', cursive;
+    font-weight: 350;
+}
+
+footer {
+    height: 150px;
+    background-color: #0B0D17;
+}
+
+footer p {
+    color: white;
+}
+
+.color-add {
+    color: #FF5959;
+}
+
+h3 {
+    color: white;
+}
