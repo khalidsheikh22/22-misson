@@ -3,13 +3,14 @@ body {
     margin: 0;
 }
 
-section {
+.max-width {
     max-width: 1440px;
     margin: 0 auto;
 }
 
 h1 {
     font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 h2 {
@@ -43,9 +44,9 @@ h2 {
 }
 
 .photo-size img {
-    height: 200px;
+    /* height: 200px; */
     width: 150px;
-    margin-left: 100px;
+    /* margin-left: 100px; */
 }
 
 .photo-size p {
@@ -63,7 +64,7 @@ h2 {
 #misson {
     background-color: rgba(79, 157, 166, 0.1);
     margin-left: 6%;
-    hight: 400px;
+    hight: 360px;
     width: 300px;
     border-radius: 25px;
 }
@@ -71,7 +72,7 @@ h2 {
 #vission {
     background-color: rgba(255, 75, 75, 0.1);
     margin-left: 10%;
-    height: 400px;
+    height: 360px;
     width: 300px;
     border-radius: 25px;
 }
@@ -79,7 +80,7 @@ h2 {
 #Goals {
     background-color: #d6ccb1;
     margin-left: 10%;
-    height: 400px;
+    height: 360px;
     width: 300px;
     border-radius: 25px;
 }
@@ -96,4 +97,18 @@ h2 {
 
 .third-part {
     margin-top: 80px;
+}
+
+.misson-area {
+    padding: 20px;
+}
+
+.forth-part img {
+    width: 60%;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.forth-parts {
+    margin-top: 70px;
 }
